@@ -27,3 +27,8 @@
 
 ### Objective
 <p>The objective of this challenge is to predict the type of rainfall (heavy, moderate, or small) expected in the next 12 to 24 hours, based solely on indigenous ecological indicators submitted by trained farmers.<p>
+
+### Instruction on how to run the project
+> Clone the Repository; Download or clone the project folder to your local environment.
+> Install Required Dependencies.
+> Launch Jupyter Notebook or Jupyter Lab and open the file
