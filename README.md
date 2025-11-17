@@ -30,5 +30,7 @@
 
 ### Instruction on how to run the project
 > Clone the Repository; Download or clone the project folder to your local environment.
+
 > Install Required Dependencies.
+
 > Launch Jupyter Notebook or Jupyter Lab and open the file
